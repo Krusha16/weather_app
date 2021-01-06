@@ -1,0 +1,25 @@
+{
+  "name": "apiassignment2",
+  "version": "1.0.0",
+  "description": "assignment2",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krusha16/weather_app.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "krusha patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krusha16/weather_app/issues"
+  },
+  "homepage": "https://github.com/Krusha16/weather_app#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
