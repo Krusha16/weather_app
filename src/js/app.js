@@ -1,4 +1,4 @@
-const apiKey = "101cb381c5c03577279072c4e7591cf1";
+const apiKey = "";
 const baseURL = "https://api.openweathermap.org/data/2.5/";
 const imgBaseURL = "https://openweathermap.org/img/wn/";
 const currentConditions = document.querySelector('.current-conditions');
